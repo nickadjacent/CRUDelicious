@@ -2971,11 +2971,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cthulhu/Documents/Dojo/C#/ORM/CRUDelicious/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/Users/cthulhu/Documents/Dojo/C#/ORM/CRUDelicious/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -2986,13 +2981,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cthulhu/Documents/Dojo/C#/ORM/CRUDelicious/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "/Users/cthulhu/Documents/Dojo/C#/ORM/CRUDelicious/Views/Home/AddDish.cshtml",
+      "TargetPath": "Views\\Home\\AddDish.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cthulhu/Documents/Dojo/C#/ORM/CRUDelicious/Views/Shared/_CookieConsentPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FilePath": "/Users/cthulhu/Documents/Dojo/C#/ORM/CRUDelicious/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

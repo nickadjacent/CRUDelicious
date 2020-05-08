@@ -17,10 +17,14 @@ namespace CRUDelicious.Controllers
         }
         public IActionResult Index()
         {
-            return View();
+            List<Dish> allDishes = db.Dishes
+                .ToList();
+
+            return View(allDishes);
         }
 
-        public IActionResult Privacy()
+        [HttpGet("/new")]
+        public IActionResult AddDish()
         {
             return View();
         }
