@@ -26,3 +26,4 @@
 /Users/cthulhu/Documents/Dojo/C#/ORM/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.dll
 /Users/cthulhu/Documents/Dojo/C#/ORM/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.pdb
 /Users/cthulhu/Documents/Dojo/C#/ORM/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.csproj.CopyComplete
+/Users/cthulhu/Documents/Dojo/C#/ORM/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/AddDish.g.cshtml.cs
